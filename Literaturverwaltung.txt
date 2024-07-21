@@ -1,0 +1,561 @@
+﻿% This file was created with Citavi 6.19.0.0
+
+@proceedings{.2023,
+ year = {2023},
+ title = {Proceedings of the 28th European Conference on Pattern Languages of Programs},
+ address = {[Erscheinungsort nicht ermittelbar]},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9798400700408},
+ series = {ACM Digital Library},
+ doi = {10.1145/3628034}
+}
+
+
+@misc{Midjourney.2024,
+ abstract = {Midjourney has four subscription tiers. Each subscription plan includes access to the Midjourney member gallery, the discord, usage rights, and more.},
+ author = {Midjourney},
+ year = {2024},
+ title = {Midjourney Subscription Plans},
+ url = {https://docs.midjourney.com/docs/plans},
+ urldate = {07.07.2024}
+}
+
+
+@proceedings{Mueller.2024,
+ year = {2024},
+ title = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
+ address = {[Erscheinungsort nicht ermittelbar]},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9798400703300},
+ series = {ACM Digital Library},
+ editor = {Mueller, Florian Floyd and Kyburz, Penny and Williamson, Julie R. and Sas, Corina and Wilson, Max L. and Dugas, Phoebe Toups and Shklovski, Irina},
+ doi = {10.1145/3613904}
+}
+
+
+@misc{OpenAi.2024,
+ author = {OpenAi},
+ year = {2024},
+ title = {GPT-4},
+ url = {https://openai.com/index/gpt-4/},
+ urldate = {19.07.2024}
+}
+
+
+@article{Panda.2019,
+ abstract = {Request PDF | An energy-efficient task scheduling algorithm for heterogeneous cloud computing systems | The massive growth of cloud computing leads to huge amounts of energy consumption and release of carbon footprints as data centers are housed by a... | Find, read and cite all the research you need on ResearchGate},
+ author = {Panda, Sanjaya K. and Jana, Prasanta K.},
+ year = {2019},
+ title = {An energy-efficient task scheduling algorithm for heterogeneous cloud computing systems},
+ url = {https://www.researchgate.net/publication/328620633_An_energy-efficient_task_scheduling_algorithm_for_heterogeneous_cloud_computing_systems},
+ pages = {509--527},
+ volume = {22},
+ number = {2},
+ issn = {1386-7857},
+ journal = {Cluster Computing},
+ doi = {10.1007/s10586-018-2858-8}
+}
+
+
+@article{Petelka.2022,
+ author = {Petelka, Justin and Oreglia, Elisa and Finn, Megan and Srinivasan, Janaki},
+ year = {2022},
+ title = {Generating Practices: Investigations into the Double Embedding of GDPR and Data Access Policies},
+ pages = {1--26},
+ volume = {6},
+ number = {CSCW2},
+ journal = {Proceedings of the ACM on Human-Computer Interaction},
+ doi = {10.1145/3555631},
+ file = {Petelka, Oreglia et al. 2022 - Generating Practices:Attachments/Petelka, Oreglia et al. 2022 - Generating Practices.pdf:application/pdf}
+}
+
+
+@misc{PolyAI.27.06.2024,
+ abstract = {We're on a mission to empower companies to be the best version of themselves for their customers.},
+ author = {PolyAI},
+ year = {27.06.2024},
+ title = {About - PolyAI},
+ url = {https://poly.ai/about/},
+ urldate = {17.07.2024}
+}
+
+
+@article{Pousttchi.2008,
+ abstract = {Mobile payments can be categorized according to their usage in each of the five payment scenarios presented here. The paper proposes the mobile payment modeling approach (MPMA) especially suited for value-based analysis of mobile payment use cases. Based on this approach, the study also develops a set of seven reference models that can classify any given mobile payment use case or mobile payment procedure and analyze it with regard to the business model, the roles of the market participants, and their interrelation from a value-based perspective. An introspective analysis of the mobile payment service provider role and a market constellation analysis which shows the implications of different actors assuming one or more of the respective roles complete the study.},
+ author = {Pousttchi, Key},
+ year = {2008},
+ title = {A modeling approach and reference models for the analysis of mobile payment use cases},
+ url = {https://www.sciencedirect.com/science/article/pii/S1567422307000427},
+ pages = {182--201},
+ volume = {7},
+ number = {2},
+ issn = {1567-4223},
+ journal = {Electronic Commerce Research and Applications},
+ doi = {10.1016/j.elerap.2007.07.001}
+}
+
+
+@article{Ray.2023,
+ abstract = {In recent years, artificial intelligence (AI) and machine learning have been transforming the landscape of scientific research. Out of which, the chatbot technology has experienced tremendous advancements in recent years, especially with ChatGPT emerging as a notable AI language model. This comprehensive review delves into the background, applications, key challenges, and future directions of ChatGPT. We begin by exploring its origins, development, and underlying technology, before examining its wide-ranging applications across industries such as customer service, healthcare, and education. We also highlight the critical challenges that ChatGPT faces, including ethical concerns, data biases, and safety issues, while discussing potential mitigation strategies. Finally, we envision the future of ChatGPT by exploring areas of further research and development, focusing on its integration with other technologies, improved human-AI interaction, and addressing the digital divide. This review offers valuable insights for researchers, developers, and stakeholders interested in the ever-evolving landscape of AI-driven conversational agents. This study explores the various ways ChatGPT has been revolutionizing scientific research, spanning from data processing and hypothesis generation to collaboration and public outreach. Furthermore, the paper examines the potential challenges and ethical concerns surrounding the use of ChatGPT in research, while highlighting the importance of striking a balance between AI-assisted innovation and human expertise. The paper presents several ethical issues in existing computing domain and how ChatGPT can invoke challenges to such notion. This work also includes some biases and limitations of ChatGPT. It is worth to note that despite of several controversies and ethical concerns, ChatGPT has attracted remarkable attentions from academia, research, and industries in a very short span of time.},
+ author = {Ray, Partha Pratim},
+ year = {2023},
+ title = {ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope},
+ url = {https://www.sciencedirect.com/science/article/pii/S266734522300024X},
+ pages = {121--154},
+ volume = {3},
+ issn = {2667-3452},
+ journal = {Internet of Things and Cyber-Physical Systems},
+ doi = {10.1016/j.iotcps.2023.04.003}
+}
+
+
+@proceedings{Sahni.2022,
+ year = {2022},
+ title = {Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing},
+ address = {New York,NY,United States},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9781450396752},
+ series = {ACM Digital Library},
+ editor = {Sahni, Sartaj and Saxena, Vikas and Iyengar, Sundaraja Sitharama},
+ doi = {10.1145/3549206}
+}
+
+
+@inproceedings{Schuckart.2023,
+ author = {Schuckart, Adrian},
+ title = {Introduction to work with GenAI},
+ pages = {1--16},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9798400700408},
+ series = {ACM Digital Library},
+ booktitle = {Proceedings of the 28th European Conference on Pattern Languages of Programs},
+ year = {2023},
+ address = {[Erscheinungsort nicht ermittelbar]},
+ doi = {10.1145/3628034.3628042}
+}
+
+
+@misc{Shokrollahi.01.10.2023,
+ abstract = {The advancement of Artificial Intelligence (AI) has catalyzed revolutionary changes across various sectors, notably in healthcare. Among the significant developments in this field are the applications of generative AI models, specifically transformers and diffusion models. These models have played a crucial role in analyzing diverse forms of data, including medical imaging (encompassing image reconstruction, image-to-image translation, image generation, and image classification), protein structure prediction, clinical documentation, diagnostic assistance, radiology interpretation, clinical decision support, medical coding, and billing, as well as drug design and molecular representation. Such applications have enhanced clinical diagnosis, data reconstruction, and drug synthesis. This review paper aims to offer a thorough overview of the generative AI applications in healthcare, focusing on transformers and diffusion models. Additionally, we propose potential directions for future research to tackle the existing limitations and meet the evolving demands of the healthcare sector. Intended to serve as a comprehensive guide for researchers and practitioners interested in the healthcare applications of generative AI, this review provides valuable insights into the current state of the art, challenges faced, and prospective future directions.},
+ author = {Shokrollahi, Yasin and Yarmohammadtoosky, Sahar and Nikahd, Matthew M. and Dong, Pengfei and Li, Xianqi and Gu, Linxia},
+ date = {01.10.2023},
+ title = {A Comprehensive Review of Generative AI in Healthcare},
+ url = {http://arxiv.org/pdf/2310.00795},
+ file = {Shokrollahi, Yarmohammadtoosky et al. 01.10.2023 - A Comprehensive Review of Generative:Attachments/Shokrollahi, Yarmohammadtoosky et al. 01.10.2023 - A Comprehensive Review of Generative.pdf:application/pdf}
+}
+
+
+@misc{SITNFlash.2023,
+ abstract = {What if AI could design workout plans, craft travel itineraries, or compose cover letters for job applications? With the advent of ChatGPT, it can.},
+ author = {SITNFlash},
+ year = {2023},
+ title = {The Making of ChatGPT: From Data to Dialogue},
+ url = {https://sitn.hms.harvard.edu/flash/2023/the-making-of-chatgpt-from-data-to-dialogue/},
+ urldate = {19.07.2024}
+}
+
+
+@misc{SophiaSpyropoulos.2024,
+ author = {{Sophia Spyropoulos}},
+ editor = {MDR},
+ year = {2024},
+ title = {Website Reddit verkauft Nutzer-Inhalte an KI-Firma},
+ url = {https://www.mdr.de/nachrichten/welt/panorama/reddit-verkauft-daten-an-ki-firma-100.html},
+ urldate = {12.07.24},
+ file = {Sophia Spyropoulos 2024 - Website Reddit verkauft Nutzer-Inhalte:Attachments/Sophia Spyropoulos 2024 - Website Reddit verkauft Nutzer-Inhalte.pdf:application/pdf}
+}
+
+
+@misc{Statista.2024,
+ author = {Statista},
+ year = {2024},
+ title = {Generative KI - Weltweit | Statista Marktprognose},
+ url = {https://de.statista.com/outlook/tmo/kuenstliche-intelligenz/generative-ki/weltweit#marktgroesse},
+ urldate = {17.07.2024}
+}
+
+
+@misc{Statista.2024b,
+ abstract = {In 2024, Microsoft generated revenue of 33.7 billion U.S.},
+ author = {Statista},
+ year = {2024},
+ title = {Top-10 cloud vendors by revenue worldwide 2024 | Statista},
+ url = {https://www.statista.com/statistics/1243513/top-10-cloud-vendors-by-revenue-fiscal-quarter-global/},
+ urldate = {19.07.2024}
+}
+
+
+@inproceedings{Sun.2024,
+ author = {Sun, Yuan and Jang, Eunchae and Ma, Fenglong and Wang, Ting},
+ title = {Generative AI in the Wild: Prospects, Challenges, and Strategies},
+ pages = {1--16},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9798400703300},
+ series = {ACM Digital Library},
+ editor = {Mueller, Florian Floyd and Kyburz, Penny and Williamson, Julie R. and Sas, Corina and Wilson, Max L. and Dugas, Phoebe Toups and Shklovski, Irina},
+ booktitle = {Proceedings of the CHI Conference on Human Factors in Computing Systems},
+ year = {2024},
+ address = {[Erscheinungsort nicht ermittelbar]},
+ doi = {10.1145/3613904.3642160},
+ file = {Sun, Jang et al. 05112024 - Generative AI in the Wild:Attachments/Sun, Jang et al. 05112024 - Generative AI in the Wild.pdf:application/pdf}
+}
+
+
+@misc{TextCortex.15.07.2024,
+ author = {TextCortex},
+ year = {15.07.2024},
+ title = {TextCortex: Ein KI-Copilot, der Sie wirklich versteht},
+ url = {https://textcortex.com/de},
+ urldate = {15.07.2024}
+}
+
+
+@misc{USCopyrightOffice.27.06.2024,
+ abstract = {Subject Matter and Scope of Copyright},
+ author = {{US Copyright Office}},
+ year = {27.06.2024},
+ title = {Chapter 1 - Circular 92 | U.S. Copyright Office},
+ url = {https://www.copyright.gov/title17/92chap1.html#106},
+ urldate = {15.07.2024}
+}
+
+
+@article{WD8:UmweltNaturschutzReaktorsicherheitBildungund.2021,
+ author = {{WD 8: Umwelt, Naturschutz, Reaktorsicherheit, Bildung und}},
+ year = {2021},
+ title = {Energieverbrauch von Rechenzentren},
+ url = {https://www.bundestag.de/resource/blob/863850/423c11968fcb5c9995e9ef9090edf9e6/WD-8-070-21-pdf-data.pdf},
+ urldate = {15.07.2024},
+ file = {WD-8-070-21-pdf-data:Attachments/WD-8-070-21-pdf-data.pdf:application/pdf}
+}
+
+
+@article{Willing.11.04.2024,
+ abstract = {How does OpenAI make money? Techopedia explains the company's business model, revenue streams, future plans, and recent controversies.},
+ author = {Willing, Nicole},
+ year = {11.04.2024},
+ title = {How Does OpenAI Make Money? Revenue Streams Beyond ChatGPT},
+ url = {https://www.techopedia.com/how-does-openai-make-money},
+ urldate = {18.07.2024},
+ journal = {Techopedia},
+ file = {Willing 11.04.2024 - How Does OpenAI Make Money:Attachments/Willing 11.04.2024 - How Does OpenAI Make Money.pdf:application/pdf}
+}
+
+
+@article{Wolford.14.11.2018,
+ author = {Wolford, Ben},
+ year = {14.11.2018},
+ title = {Art. 83 GDPR -- General conditions for imposing administrative fines},
+ url = {https://gdpr.eu/article-83-conditions-for-imposing-administrative-fines/},
+ urldate = {20.07.2024},
+ journal = {GDPR.eu},
+ file = {Wolford 14.11.2018 - Art. 83 GDPR:Attachments/Wolford 14.11.2018 - Art. 83 GDPR.pdf:application/pdf}
+}
+
+
+@inproceedings{Liu.2019,
+ author = {Liu, Yue and Wang, Xin and Yuan, Yitian and Zhu, Wenwu},
+ title = {Cross-Modal Dual Learning for Sentence-to-Video Generation},
+ pages = {1239--1247},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9781450368896},
+ editor = {Amsaleg, Laurent and Huet, Benoit and Larson, Martha and Gravier, Guillaume and Hung, Hayley and Ngo, Chong-Wah and {Tsang Ooi}, Wei},
+ booktitle = {Proceedings of the 27th ACM International Conference on Multimedia},
+ year = {2019},
+ address = {[S.l.]},
+ doi = {10.1145/3343031.3350986}
+}
+
+
+@article{Xin.2018,
+ author = {Xin, Yang and Kong, Lingshuang and Liu, Zhi and Chen, Yuling and Li, Yanmiao and Zhu, Hongliang and Gao, Mingcheng and Hou, Haixia and Wang, Chunhua},
+ year = {2018},
+ title = {Machine Learning and Deep Learning Methods for Cybersecurity},
+ pages = {35365--35381},
+ volume = {6},
+ journal = {IEEE Access},
+ doi = {10.1109/ACCESS.2018.2836950}
+}
+
+
+@inproceedings{Kinger.2022,
+ author = {Kinger, Kushagra and Singh, Ajeet and Panda, Sanjaya Kumar},
+ title = {Priority-Aware Resource Allocation Algorithm for Cloud Computing},
+ pages = {168--174},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9781450396752},
+ series = {ACM Digital Library},
+ editor = {Sahni, Sartaj and Saxena, Vikas and Iyengar, Sundaraja Sitharama},
+ booktitle = {Proceedings of the 2022 Fourteenth International Conference on Contemporary Computing},
+ year = {2022},
+ address = {New York,NY,United States},
+ doi = {10.1145/3549206.3549236}
+}
+
+
+@article{Jacobides.2018,
+ author = {Jacobides, Michael G. and Cennamo, Carmelo and Gawer, Annabelle},
+ year = {2018},
+ title = {Towards a theory of ecosystems},
+ pages = {2255--2276},
+ volume = {39},
+ number = {8},
+ issn = {0143-2095},
+ journal = {Strategic Management Journal},
+ doi = {10.1002/smj.2904}
+}
+
+
+@misc{.13.07.2024,
+ year = {13.07.2024},
+ title = {Was ist GPT-3?},
+ url = {https://textcortex.com/de/post/what-is-gpt-3},
+ urldate = {13.07.2024}
+}
+
+
+@misc{.15.07.2024,
+ abstract = {ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.},
+ year = {15.07.2024},
+ title = {ChatGPT: Get instant answers, find inspiration, learn something new},
+ url = {https://chatgpt.com/c/48761b5d-ff04-4263-a183-a54864b7e0ea},
+ urldate = {15.07.2024}
+}
+
+
+@misc{18EStG.20.07.2024,
+ author = {{{\S} 18 EStG}},
+ year = {20.07.2024},
+ title = {{\S} 18 EStG - Einzelnorm},
+ url = {https://www.gesetze-im-internet.de/estg/__18.html},
+ urldate = {20.07.2024}
+}
+
+
+@misc{19UStG.20.07.2024,
+ author = {{{\S} 19 UStG}},
+ year = {20.07.2024},
+ title = {{\S} 19 UStG - Einzelnorm},
+ url = {https://www.gesetze-im-internet.de/ustg_1980/__19.html},
+ urldate = {20.07.2024}
+}
+
+
+@article{Adner.2017,
+ author = {Adner, Ron},
+ year = {2017},
+ title = {Ecosystem as Structure},
+ pages = {39--58},
+ volume = {43},
+ number = {1},
+ issn = {0149-2063},
+ journal = {Journal of Management},
+ doi = {10.1177/0149206316678451}
+}
+
+
+@proceedings{Amsaleg.2019,
+ year = {2019},
+ title = {Proceedings of the 27th ACM International Conference on Multimedia},
+ address = {[S.l.]},
+ publisher = {{Association for Computing Machinery}},
+ isbn = {9781450368896},
+ editor = {Amsaleg, Laurent and Huet, Benoit and Larson, Martha and Gravier, Guillaume and Hung, Hayley and Ngo, Chong-Wah and {Tsang Ooi}, Wei},
+ doi = {10.1145/3343031}
+}
+
+
+@article{Banh.2023,
+ abstract = {Recent developments in the field of artificial intelligence (AI) have enabled new paradigms of machine processing, shifting from data-driven, discriminative AI tasks toward sophisticated, creative tasks through generative AI. Leveraging deep generative models, generative AI is capable of producing novel and realistic content across a broad spectrum (e.g., texts, images, or programming code) for various domains based on basic user prompts. In this article, we offer a comprehensive overview of the fundamentals of generative AI with its underpinning concepts and prospects. We provide a conceptual introduction to relevant terms and techniques, outline the inherent properties that constitute generative AI, and elaborate on the potentials and challenges. We underline the necessity for researchers and practitioners to comprehend the distinctive characteristics of generative artificial intelligence in order to harness its potential while mitigating its risks and to contribute to a principal understanding.},
+ author = {Banh, Leonardo and Strobel, Gero},
+ year = {2023},
+ title = {Generative artificial intelligence},
+ url = {https://link.springer.com/article/10.1007/s12525-023-00680-1},
+ pages = {1--17},
+ volume = {33},
+ number = {1},
+ issn = {1422-8890},
+ journal = {Electronic Markets},
+ doi = {10.1007/s12525-023-00680-1},
+ file = {Banh, Strobel 2023 - Generative artificial intelligence:Attachments/Banh, Strobel 2023 - Generative artificial intelligence.pdf:application/pdf}
+}
+
+
+@proceedings{Bosch.04142024,
+ year = {04142024},
+ title = {Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering - Software Engineering for AI},
+ address = {New York, NY, USA},
+ publisher = {ACM},
+ isbn = {9798400705915},
+ editor = {Bosch, Jan and Lewis, Grace and Cleland-Huang, Jane and Muccini, Henry},
+ doi = {10.1145/3644815}
+}
+
+
+@article{Brynjolfsson.2017,
+ author = {Brynjolfsson, Erik and Mitchell, Tom},
+ year = {2017},
+ title = {What can machine learning do? Workforce implications},
+ pages = {1530--1534},
+ volume = {358},
+ number = {6370},
+ journal = {Science (New York, N.Y.)},
+ doi = {10.1126/science.aap8062}
+}
+
+
+@misc{CapgeminiGermany.2024,
+ abstract = {Unternehmen profitieren durch fr{\"u}hzeitige Anwendung von generativer KI von neuen und wirtschaftlichen Gesch{\"a}ftsmodellen und -prozessen.},
+ author = {{Capgemini Germany}},
+ year = {2024},
+ title = {Generative AI | Capgemini},
+ url = {https://www.capgemini.com/de-de/services/daten-kuenstliche-intelligenz/generative-ai/},
+ urldate = {18.07.2024}
+}
+
+
+@book{Carugati.2024,
+ abstract = {Cloud computing providers and generative artificial intelligence (GenAI) providers nurture a close, interdependent relationship: GenAI providers need cloud prov},
+ author = {Carugati, Christophe},
+ year = {2024},
+ title = {The Competitive Relationship Between Cloud Computing and Generative AI},
+ doi = {10.2139/ssrn.4738738},
+ file = {Carugati 2024 - The Competitive Relationship Between Cloud:Attachments/Carugati 2024 - The Competitive Relationship Between Cloud.pdf:application/pdf}
+}
+
+
+@misc{ChatGPTDeutsch.12.07.2024,
+ abstract = {Hier kannst du das GPT Modell 3.5 Turbo von OpenAI kostenlos sowie ohne Anmeldung nutzen und findest weitere n{\"u}tzliche Infos zu ChatGPT.},
+ author = {{ChatGPT Deutsch}},
+ year = {12.07.2024},
+ title = {ChatGPT Deutsch},
+ url = {https://chatopenai.de/},
+ urldate = {18.07.2024}
+}
+
+
+@misc{Copy.ai.16.07.2024,
+ author = {Copy.ai},
+ year = {16.07.2024},
+ title = {Copy.ai Blog | Practical AI Tips {\&} Guides},
+ url = {https://www.copy.ai/blog},
+ urldate = {16.07.2024}
+}
+
+
+@misc{GDPR.eu.20.07.2024,
+ abstract = {Rights of the data subject},
+ author = {GDPR.eu},
+ year = {20.07.2024},
+ title = {Chapter 3 (Art. 12-23) Archives - GDPR.eu},
+ url = {https://gdpr.eu/tag/chapter-3/},
+ urldate = {20.07.2024}
+}
+
+
+@misc{HarvardBusinessReview.1993,
+ abstract = {For most companies today, the only truly sustainable advantage comes from out-innovating the competition.},
+ author = {{Harvard Business Review}},
+ year = {1993},
+ title = {Predators and Prey: A New Ecology of Competition},
+ url = {https://hbr.org/1993/05/predators-and-prey-a-new-ecology-of-competition},
+ urldate = {17.07.2024}
+}
+
+
+@misc{HarvardBusinessReview.2004,
+ abstract = {Reprint: R0403E Microsoft's and Wal-Mart's preeminence in modern business has been attributed to any number of factors---from the vision and drive of their founders to the companies' aggressive competitive practices. But the authors maintain that the success realized by these two very different companies is due only partly to the organizations themselves; a bigger factor is the success of the networks of companies with which Microsoft and Wal-Mart do business. Most companies today inhabit ecosystems---loose networks of suppliers, distributors, and outsourcers; makers of related products or services; providers of relevant technology; and other organizations that affect, and are affected by, the creation and delivery of a company's own offering. Despite being increasingly central to modern business, ecosystems are still poorly understood and even more poorly managed. The analogy between business networks and biological ecosystems can aid this understanding by vividly highlighting certain pivotal concepts. The moves that a company makes will, to varying degrees, affect the health of its business network, which in turn will ultimately affect the organization's performance---for ill as well as for good. Because a company, like an individual species in a biological ecosystem, ultimately shares its fate with the network as a whole, smart firms pursue strategies that will benefit everyone. So how can you promote the health and the stability of your own ecosystem, determine your place in it, and develop a strategy to match your role, thereby helping to ensure your company's well-being? It depends on your role---current and potential---within the network. Is your company a niche player, a keystone, or a dominator? The answer to this question may be different for different parts of your business. It may also change as your ecosystem changes. Knowing what to do requires understanding the ecosystem and your organization's role in it.},
+ author = {{Harvard Business Review}},
+ year = {2004},
+ title = {Strategy as Ecology},
+ url = {https://hbr.org/2004/03/strategy-as-ecology},
+ urldate = {17.07.2024}
+}
+
+
+@article{Hein.2020,
+ author = {Hein, Andreas and Schreieck, Maximilian and Riasanow, Tobias and Setzke, David Soto and Wiesche, Manuel and B{\"o}hm, Markus and Krcmar, Helmut},
+ year = {2020},
+ title = {Digital platform ecosystems},
+ pages = {87--98},
+ volume = {30},
+ number = {1},
+ issn = {1422-8890},
+ journal = {Electronic Markets},
+ doi = {10.1007/s12525-019-00377-4}
+}
+
+
+@article{Huang.2024,
+ abstract = {This chapter provides an in-depth exploration of data security within the realm of GenAI. Highlighting the pivotal role of data, often likened to the ``oil'' of the digital age, the chapter navigates data's lifecycle from collection to disposal. The...},
+ author = {Huang, Ken and Huang, Jerry and Catteddu, Daniele},
+ year = {2024},
+ title = {GenAI Data Security},
+ url = {https://link.springer.com/chapter/10.1007/978-3-031-54252-7_5},
+ pages = {133--162},
+ issn = {2662-2475},
+ journal = {Generative AI Security},
+ doi = {10.1007/978-3-031-54252-7{\textunderscore }5},
+ file = {Huang, Huang et al. 2024 - GenAI Data Security:Attachments/Huang, Huang et al. 2024 - GenAI Data Security.pdf:application/pdf}
+}
+
+
+@misc{HuggingFace.18.07.2024,
+ abstract = {We're on a journey to advance and democratize artificial intelligence through open source and open science.},
+ author = {{Hugging Face}},
+ year = {18.07.2024},
+ title = {Hugging Face -- The AI community building the future},
+ url = {https://huggingface.co/},
+ urldate = {18.07.2024}
+}
+
+
+@article{JaapGordijn.2000,
+ abstract = {PDF | . Innovative e-business projects start with a design of the e-business model. We often encounter the view, in research as well as industry... | Find, read and cite all the research you need on ResearchGate},
+ author = {{Jaap Gordijn} and {Hans Akkermans} and {Hans Van Vliet}},
+ year = {2000},
+ title = {Business Modelling is not Process Modelling},
+ url = {https://www.researchgate.net/publication/2624641_Business_Modelling_is_not_Process_Modelling},
+ volume = {1921},
+ issn = {0302-9743},
+ journal = {Lecture Notes in Computer Science},
+ file = {Jaap Gordijn, Hans Akkermans et al. 2000 - Business Modelling is not Process:Attachments/Jaap Gordijn, Hans Akkermans et al. 2000 - Business Modelling is not Process.pdf:application/pdf}
+}
+
+
+@book{JaapGordijnandRoelWieringa.2023,
+ author = {{Jaap Gordijn and Roel Wieringa}},
+ year = {2023},
+ title = {E3value User Guide: Designing Your Ecosystem in a Digital World},
+ url = {https://e3value-user-manual.thevalueengineers.nl/},
+ address = {NL},
+ publisher = {{The Value Engineers B.V., Soest, NL}}
+}
+
+
+@article{Kapoor.2018,
+ author = {Kapoor, Rahul},
+ year = {2018},
+ title = {Ecosystems: broadening the locus of value creation},
+ volume = {7},
+ number = {1},
+ journal = {Journal of Organization Design},
+ doi = {10.1186/s41469-018-0035-4}
+}
+
+
+@inproceedings{Zhang.04142024,
+ author = {Zhang, Dawen and Xia, Boming and Liu, Yue and Xu, Xiwei and Hoang, Thong and Xing, Zhenchang and Staples, Mark and Lu, Qinghua and Zhu, Liming},
+ title = {Privacy and Copyright Protection in Generative AI: A Lifecycle Perspective},
+ pages = {92--97},
+ publisher = {ACM},
+ isbn = {9798400705915},
+ editor = {Bosch, Jan and Lewis, Grace and Cleland-Huang, Jane and Muccini, Henry},
+ booktitle = {Proceedings of the IEEE/ACM 3rd International Conference on AI Engineering - Software Engineering for AI},
+ year = {04142024},
+ address = {New York, NY, USA},
+ doi = {10.1145/3644815.3644952},
+ file = {Zhang, Xia et al. 04142024 - Privacy and Copyright Protection:Attachments/Zhang, Xia et al. 04142024 - Privacy and Copyright Protection.pdf:application/pdf}
+}
+
+
